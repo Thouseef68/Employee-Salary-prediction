@@ -22,7 +22,7 @@ Machine Learning model to predict employee salaries based on various features us
 
 ## 📊 Models Used
 - Linear Regression  
-- Random Forest (optional if used)  
+- Random Forest 
 
 ---
 
